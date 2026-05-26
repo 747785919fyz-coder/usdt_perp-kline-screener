@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+*.log
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+screener_dashboard.html
+.DS_Store
